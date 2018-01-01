@@ -43,7 +43,7 @@
                         I am adding this extra line
                  </p>
 <p>
-This is the second line added from git to demo GIT-GITHUB-Openshift (StoI)
+This is the second line added from git to demo GIT-GITHUB-Openshift
 </p>
 		<ul>
 			<li>
